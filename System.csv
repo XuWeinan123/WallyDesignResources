@@ -2,6 +2,6 @@
 "Font/Family", "flomoFont", "flomoFont-OS", "flomoFont-OS", "SF Pro"
 "Font/Weight/Regular", "Regular", "Regular", "Regular", "Regular"
 "Font/Weight/Emphasize", "SemiBold", "SemiBold", "SemiBold", "Bold"
-"Editor Button Corner", "100", "100", "[object Object]", "[object Object]"
+"Editor Button Corner", "100", "100", "Corner Radius/Medium", "Corner Radius/Medium"
 "Bottom Padding", "40", "40", "20", "20"
-"Mask-System", "[object Object]", "[object Object]", "[object Object]", "#ffffff"
+"Mask-System", "Black40", "Black60", "Black60", "#ffffff"
