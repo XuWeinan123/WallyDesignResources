@@ -1,7 +1,0 @@
-"Name", "iOS", "Android", "Web", "Icon"
-"Bottom Padding", "40", "40", "20", "20"
-"Editor Button Corner", "100", "100", "Corner Radius/Medium", "Corner Radius/Medium"
-"Font/Family", "flomoFont", "flomoFont-OS", "flomoFont-OS", "SF Pro"
-"Font/Weight/Emphasize", "SemiBold", "SemiBold", "SemiBold", "Bold"
-"Font/Weight/Regular", "Regular", "Regular", "Regular", "Regular"
-"Mask-System", "Black40", "Black60", "Black60", "#ffffff"
