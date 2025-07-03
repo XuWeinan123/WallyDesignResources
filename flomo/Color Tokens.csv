@@ -31,7 +31,7 @@
 "Line/Light", "Black10", "White10", "White10"
 "Line/Regular", "Black20", "White20", "White20"
 "Logo Text", "Gray5", "Gray60", "Gray60"
-"Mask", "Mask-System", "Mask-System", "Mask-System"
+"Mask", "Mask-Platform", "Mask-Platform", "Mask-Platform"
 "Popover/Background", "White100", "Gray20", "Gray25"
 "Segment/Background", "Black5", "White10", "White10"
 "Segment/Selected", "White100", "Gray30", "Gray30"
