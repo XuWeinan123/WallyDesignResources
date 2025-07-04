@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_RadiusLarge">12dp</dimen>
+    <dimen name="corner_RadiusMedium">6dp</dimen>
+    <dimen name="corner_RadiusSmall">3dp</dimen>
+    <dimen name="disable_Opacity">40dp</dimen>
+    <dimen name="editor_Button_Corner">100dp</dimen>
+    <dimen name="grouped_List_Space">10dp</dimen>
+    <dimen name="hPaddingDefault">16dp</dimen>
+    <dimen name="hPaddingNarrow">12dp</dimen>
+    <dimen name="hPaddingWide">24dp</dimen>
+    <dimen name="line_width">0.5dp</dimen>
+    <dimen name="memoContent_Space">12dp</dimen>
+    <dimen name="menuPaddingLarge">8dp</dimen>
+    <dimen name="menuPaddingMedium">4dp</dimen>
+    <dimen name="menuSpace">2dp</dimen>
+</resources>
