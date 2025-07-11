@@ -5,13 +5,18 @@
     <dimen name="corner_RadiusSmall">3dp</dimen>
     <dimen name="disable_Opacity">40dp</dimen>
     <dimen name="editor_Button_Corner">100dp</dimen>
-    <dimen name="grouped_List_Space">10dp</dimen>
-    <dimen name="hPaddingDefault">16dp</dimen>
-    <dimen name="hPaddingNarrow">12dp</dimen>
-    <dimen name="hPaddingWide">24dp</dimen>
     <dimen name="line_width">0.5dp</dimen>
+    <dimen name="listBottom_Padding">@dimen/paddingWide</dimen>
+    <dimen name="listSpaceCard">10dp</dimen>
+    <dimen name="listSpaceSection">20dp</dimen>
+    <dimen name="mask-Blur">32dp</dimen>
     <dimen name="memoContent_Space">12dp</dimen>
     <dimen name="menuPaddingLarge">8dp</dimen>
     <dimen name="menuPaddingMedium">4dp</dimen>
     <dimen name="menuSpace">2dp</dimen>
+    <dimen name="paddingMedium">16dp</dimen>
+    <dimen name="paddingNarrow">12dp</dimen>
+    <dimen name="paddingWide">24dp</dimen>
+    <dimen name="sheetMax_Height">640dp</dimen>
+    <dimen name="sheetMax_Width">580dp</dimen>
 </resources>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="mask-Platform">@color/black40</color>
+    <color name="mask-Platform">@color/black60</color>
 </resources>

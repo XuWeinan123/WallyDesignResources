@@ -1,3 +1,5 @@
 "Name", "iOS", "Android", "Web"
 "Editor Button Corner", "100", "100", "Corner Radius/Medium"
-"Mask-Platform", "Black40", "Black60", "Black60"
+"Mask-Platform", "Black60", "Black60", "Black60"
+"Sheet/Max Height", "640", "640", "780"
+"Sheet/Max Width", "580", "580", "720"
