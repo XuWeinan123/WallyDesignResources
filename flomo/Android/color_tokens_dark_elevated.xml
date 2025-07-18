@@ -44,4 +44,6 @@
     <color name="textTag_Header">@color/brown50</color>
     <color name="generalGrayPrimary">@color/gray50</color>
     <color name="generalGraySecondary">@color/gray20</color>
+    <color name="generalBrownPrimary">@color/brown50</color>
+    <color name="generalBrownSecondary">@color/brown20</color>
 </resources>
