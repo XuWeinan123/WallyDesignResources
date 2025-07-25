@@ -11,6 +11,7 @@
     <dimen name="listSpaceSection">20dp</dimen>
     <dimen name="mask-Blur">32dp</dimen>
     <dimen name="memoContent_Space">12dp</dimen>
+    <dimen name="menu_VPadding">@dimen/paddingNarrow</dimen>
     <dimen name="menuPaddingLarge">8dp</dimen>
     <dimen name="menuPaddingMedium">4dp</dimen>
     <dimen name="menuSpace">2dp</dimen>

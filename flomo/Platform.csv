@@ -1,5 +1,6 @@
 "Name", "iOS", "Android", "Web"
 "Editor Button Corner", "100", "100", "Corner Radius/Medium"
 "Mask-Platform", "Black60", "Black60", "Black60"
+"Menu VPadding", "Padding/Narrow", "Padding/Narrow", "4"
 "Sheet/Max Height", "640", "640", "780"
-"Sheet/Max Width", "580", "580", "720"
+"Sheet/Max Width", "580", "580", "580"
