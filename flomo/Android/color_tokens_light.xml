@@ -46,4 +46,5 @@
     <color name="generalGraySecondary">@color/gray90</color>
     <color name="generalBrownPrimary">@color/brown60</color>
     <color name="generalBrownSecondary">@color/brown95</color>
+    <color name="text_Selection">@color/green90</color>
 </resources>

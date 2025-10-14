@@ -2,9 +2,9 @@
 <resources>
     <color name="textEmphasize">@color/white100</color>
     <color name="generalThemePrimary">@color/green40</color>
-    <color name="generalThemeSecondary">@color/green20</color>
+    <color name="generalThemeSecondary">@color/green25</color>
     <color name="generalBluePrimary">@color/blue50</color>
-    <color name="generalBlueSecondary">@color/blue20</color>
+    <color name="generalBlueSecondary">@color/blue25</color>
     <color name="textRegular">@color/gray80</color>
     <color name="textSubtle">@color/gray60</color>
     <color name="backgroundsPrimary">@color/gray5</color>
@@ -25,7 +25,7 @@
     <color name="textDisable">@color/gray30</color>
     <color name="textLink">@color/blue50</color>
     <color name="generalRedPrimary">@color/red50</color>
-    <color name="generalRedSecondary">@color/red20</color>
+    <color name="generalRedSecondary">@color/red25</color>
     <color name="contributionLevel_0">#3d3d3d</color>
     <color name="contributionLevel_1">#434d41</color>
     <color name="contributionLevel_2">#698064</color>
@@ -46,4 +46,5 @@
     <color name="generalGraySecondary">@color/gray20</color>
     <color name="generalBrownPrimary">@color/brown50</color>
     <color name="generalBrownSecondary">@color/brown20</color>
+    <color name="text_Selection">@color/green20</color>
 </resources>

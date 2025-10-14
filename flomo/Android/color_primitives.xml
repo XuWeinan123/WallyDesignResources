@@ -3,6 +3,7 @@
     <color name="green5">#05150c</color>
     <color name="green10">#092516</color>
     <color name="green20">#0c361f</color>
+    <color name="green25">#0d4527</color>
     <color name="green30">#18683d</color>
     <color name="green40">#397354</color>
     <color name="green50">#208950</color>
@@ -15,6 +16,7 @@
     <color name="red5">#161212</color>
     <color name="red10">#251e1e</color>
     <color name="red20">#352c2c</color>
+    <color name="red25">#493737</color>
     <color name="red30">#7c4c4b</color>
     <color name="red40">#a74c49</color>
     <color name="red50">#bd5551</color>
@@ -27,6 +29,7 @@
     <color name="blue5">#0f121a</color>
     <color name="blue10">#1b202d</color>
     <color name="blue20">#262e40</color>
+    <color name="blue25">#2d3b5c</color>
     <color name="blue30">#3d5794</color>
     <color name="blue40">#3662c9</color>
     <color name="blue50">#4071e2</color>
@@ -39,7 +42,7 @@
     <color name="gray5">#121212</color>
     <color name="gray10">#202020</color>
     <color name="gray20">#2e2e2e</color>
-    <color name="gray25">#424242</color>
+    <color name="gray25">#3b3b3b</color>
     <color name="gray30">#595959</color>
     <color name="gray40">#696969</color>
     <color name="gray50">#787878</color>

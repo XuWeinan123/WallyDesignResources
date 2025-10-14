@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="corner_RadiusHuge">24dp</dimen>
     <dimen name="corner_RadiusLarge">12dp</dimen>
     <dimen name="corner_RadiusMedium">6dp</dimen>
     <dimen name="corner_RadiusSmall">3dp</dimen>
     <dimen name="disable_Opacity">40dp</dimen>
     <dimen name="editor_Button_Corner">100dp</dimen>
-    <dimen name="line_width">0.5dp</dimen>
+    <dimen name="fontBody_Size">15dp</dimen>
+    <dimen name="line_Width">0.5dp</dimen>
     <dimen name="listBottom_Padding">@dimen/paddingWide</dimen>
     <dimen name="listSpaceCard">10dp</dimen>
     <dimen name="listSpaceSection">20dp</dimen>
@@ -18,6 +20,7 @@
     <dimen name="paddingMedium">16dp</dimen>
     <dimen name="paddingNarrow">12dp</dimen>
     <dimen name="paddingWide">24dp</dimen>
+    <dimen name="paragraph_Spacing">4dp</dimen>
     <dimen name="sheetMax_Height">640dp</dimen>
     <dimen name="sheetMax_Width">580dp</dimen>
 </resources>
