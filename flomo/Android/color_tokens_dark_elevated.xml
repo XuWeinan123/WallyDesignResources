@@ -13,12 +13,13 @@
     <color name="backgrounds_GroupedTertiary">@color/gray25</color>
     <color name="backgroundsSecondary">@color/gray20</color>
     <color name="backgroundsTertiary">@color/gray25</color>
-    <color name="fillsPrimary">@color/gray25</color>
-    <color name="fillsSecondary">@color/gray25</color>
+    <color name="fillsPrimary">#5c787878</color>
+    <color name="fills_Secondary">#52787878</color>
     <color name="lineLight">@color/white10</color>
     <color name="lineRegular">@color/white20</color>
     <color name="lineDeep">@color/white40</color>
-    <color name="fillsTertiary">@color/gray20</color>
+    <color name="fillsTertiary">#3d787878</color>
+    <color name="fillsQuaternary">#2e787878</color>
     <color name="hover">@color/white5</color>
     <color name="segmentBackground">@color/white10</color>
     <color name="segmentSelected">@color/gray30</color>
