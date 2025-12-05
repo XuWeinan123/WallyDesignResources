@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_RadiusLarge">12dp</dimen>
+    <dimen name="corner_RadiusMedium">6dp</dimen>
+    <dimen name="corner_RadiusSmall">3dp</dimen>
+    <dimen name="disable_Opacity">55dp</dimen>
+    <dimen name="disable_Opacity_2">30dp</dimen>
+    <dimen name="line_WidthHeavy">1.5dp</dimen>
+    <dimen name="line_WidthRegular">1dp</dimen>
+    <dimen name="line_WidthSlim">0.5dp</dimen>
+</resources>
